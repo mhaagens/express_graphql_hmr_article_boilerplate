@@ -1,0 +1,1 @@
+Run `yarn` and `yarn start`, then go to `localhost:3000/graphiql`.
